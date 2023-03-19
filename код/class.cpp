@@ -5,7 +5,6 @@
 #include <cmath>
 
 #define size 1000
-#define 
 using namespace std;
 
 class math{
